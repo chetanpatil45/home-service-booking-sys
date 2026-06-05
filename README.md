@@ -16,8 +16,8 @@ A Spring Boot backend project for this is a very strong portfolio project becaus
 * Real-world business logic
 
 Summary - 
-• Developing a role-based Home Service Booking System with separate modules for Customers, Service providers, Admin.
-• Implementing secure authentication and authorization using Spring Security, JWT, and BCrypt password hashing.
-• Building RESTful APIs following layered MVC architecture with DTO validation and global exception handling.
-• Designing a relational database using MySQL to manage users, services, bookings, reviews, and provider information.
+- Developing a role-based Home Service Booking System with separate modules for Customers, Service providers, Admin.
+- Implementing secure authentication and authorization using Spring Security, JWT, and BCrypt password hashing.
+- Building RESTful APIs following layered MVC architecture with DTO validation and global exception handling.
+- Designing a relational database using MySQL to manage users, services, bookings, reviews, and provider information.
 
